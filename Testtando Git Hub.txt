@@ -1,0 +1,3 @@
+testando comandos git
+git init
+git add
