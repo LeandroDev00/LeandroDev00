@@ -1,14 +1,26 @@
-- 👋 Hi, my name is Leandro, I'm 20 years old and a long way to go... towards programming
+   OLÁ MUNDO , me chamo Leandro
 
-- 👀 I'm interested in becoming a great developer
+    👨‍💼 QUEM É LEANDRO:                      
+    - um apaixonado por programação, Tecnologia, Jogos e muito café ☕ .
+
+    🎓Curso o 3° Semetre de Análise e Desenvolvimento 
+      de Sistemas - Unimetrocamp.
+
+    🎓 Estou me dedicando a aprender Lógica de Programação, banco de dados, estrutura
+       de dados, HTML, CSS, Java Script...
+
+    👀 desejo me tornar um Desenvolvedor de sistemas Web e Mobile.
+
+    💼  Estou aberto a oportunidades na área de Desenvolvedor Front-End Jr ou Estágios, entre outras áreas da programação.
+
+    ⚽Gosto de praticar esportes em particular futebol.
+    
+    🎬 Gosto assistir minhas séries e filmes.   
+
+    📫 Pode me encontrar pelo meu linkedin: www.linkedin.com/in/leandro-lemos00
 
 
-- 🌱 I'm learning a lot about Programming Logic with DigitalInnovationOne
-
-
-- 💞️ I'm looking to collaborate in some way with the developer community
-
-- 📫 How to reach me through my linkedin: www.linkedin.com/in/leandro-lemos00
+    
 
 <!---
 LeandroDev00/LeandroDev00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
