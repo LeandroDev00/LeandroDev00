@@ -4,18 +4,18 @@
     
     🎓Curso o 3° Semetre de Análise e Desenvolvimento de Sistemas - Unimetrocamp.
     
-    🎓 Estou me dedicando a aprender Lógica de Programação, banco de dados, estrutura
+    🎓 Estou me dedicando a aprender Lógica de Programação, Banco de dados, Estrutura
        de dados, HTML, CSS, Java Script...
 
-    👀 desejo me tornar um Desenvolvedor de sistemas Web e Mobile.
+    👀 Desejo me tornar um Desenvolvedor de Sistemas Web e Mobile.
 
-    💼  Estou aberto a oportunidades na área de Desenvolvedor Front-End Jr ou Estágios, entre outras áreas da programação.
+    💼  Estou aberto a Oportunidades na área de Desenvolvedor Front-End Jr ou Estágios, entre outras áreas da Programação.
 
-    ⚽Gosto de praticar esportes em particular futebol.
+    ⚽Gosto de Praticar Esportes em particular Futebol.
     
     🎬 Gosto assistir minhas séries e filmes.   
 
-    📫 Pode me encontrar pelo meu linkedin: www.linkedin.com/in/leandro-lemos00
+    📫 Pode me encontrar pelo meu Linkedin: www.linkedin.com/in/leandro-lemos00
 
 
     
