@@ -1,7 +1,6 @@
    OLÁ MUNDO , Me Chamo LEANDRO
 
-    👨‍💼                      
-    - Um apaixonado por programação, Tecnologia, Jogos e muito café ☕ .
+    👨‍💼 - Sou Uma pessoa apaixonado por programação, Tecnologia, Jogos e muito café ☕ .
     
     🎓Curso o 3° Semetre de Análise e Desenvolvimento de Sistemas - Unimetrocamp.
     
