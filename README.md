@@ -1,11 +1,10 @@
-   OLÁ MUNDO , me chamo Leandro
+   OLÁ MUNDO , Me Chamo LEANDRO
 
-    👨‍💼 QUEM É LEANDRO:                      
-    - um apaixonado por programação, Tecnologia, Jogos e muito café ☕ .
-
-    🎓Curso o 3° Semetre de Análise e Desenvolvimento 
-      de Sistemas - Unimetrocamp.
-
+    👨‍💼                      
+    - Um apaixonado por programação, Tecnologia, Jogos e muito café ☕ .
+    
+    🎓Curso o 3° Semetre de Análise e Desenvolvimento de Sistemas - Unimetrocamp.
+    
     🎓 Estou me dedicando a aprender Lógica de Programação, banco de dados, estrutura
        de dados, HTML, CSS, Java Script...
 
